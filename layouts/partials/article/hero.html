@@ -1,0 +1,33 @@
+<section id="articleHero" class="section narrow">
+    <div class="article-hero">
+        <header class="article-header">
+            <h1 class="article-hero-heading">{{ .Page.Params.Title }}</h1>
+            <div class="article-hero-subtitle">
+                <div style="max-width:468px; padding: 0 16px 0 0;"> {{ .Page.Params.Excerpt }}
+                </div>
+                <div>
+                        <span class="article-meta-label"> Role </span>
+                        <span class="article-meta-value">{{ .Page.Params.Role }} <span> 
+                            <br>
+                     <span class="article-meta-label"> Date </span>
+                        <span class="article-meta-value">{{ .Page.Params.Pjtdate }} <span>        
+                </div>
+
+               <!--  <div class="article-meta">
+                    {{ partial "article/authors.html" . }}
+                    {{ .Page.Date.Format "January 2, 2006" }}
+                    • {{ .ReadingTime }} min read
+                </div> -->
+            </div>
+             <div class="article-hero-subtitle" style="display: block;">
+                              
+            </div>
+
+        </header>
+        {{ with .Page.Params.hero }}
+        <div class="article-hero-image" id="ArticleImage__Hero">
+            <img src="{{ . }}">
+        </div>
+        {{ end }}
+    </div>
+</section>

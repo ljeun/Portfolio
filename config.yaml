@@ -1,0 +1,7 @@
+baseURL: "https://jeongeun-lee.com"
+languageCode: "en-us"
+title: "Jeongeun Lee, designer."
+metaDataFormat: yaml
+taxonomies:
+  author: authors
+
