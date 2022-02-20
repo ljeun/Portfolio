@@ -3,7 +3,7 @@ title: Samsung SDS UI Framework
 date: 2014-04-30
 hero: /images/samsungsds_uiframework_main.png
 excerpt: UI Framework for internal developers. I designed and developed UI Components with samples and codes.
-role: UI desginer & developer
+role: UI designer & developer
 pjtdate: 2012-2014
 timeToRead: 8
 authors:

@@ -91,8 +91,9 @@ a:focus {
 p a, li a {
 	font-style: italic;
 	text-decoration: underline;
+	color: var(--accent);
 	//text-decoration-style: wavy;
-	text-decoration-thickness: 2.5px;
+	text-decoration-thickness: 1px;
 	text-decoration-color: var(--accent);
 	-webkit-text-decoration-color: var(--accent);
 }

@@ -12,16 +12,17 @@ authors:
 ---
 
 
-## Problem
+### Problem
 
 Travelers are not familiar with local food and ingredients in new places while they are traveling. It requires much time and effort to choose and find the right information for that, although we can see thousands of results on the internet search. So, in many cases, we easily decide to go to any franchise restaurants where we may make more footprint with long food distances from the production of the ingredients. On top of that, we lose the opportunity to learn new cultures related to food which is basic in any local place.
 
-## Augmented Reaility and Gamification
+### Augmented Reaility and Gamification
 
 Augmented Reality (AR) and gamification can derive a possibility to support travelers to consume local food. The benefits of MAR and gamification were explored through the design and evaluation of a gamified MAR application prototype to encourage travelers’ local food consumption. The application recognizes the real food through an AR mobile screen and displays basic food information with name/ingredient and 'food miles' which refers to how far the main ingredients come from the distance. Besides, gamification was applied for the users’ actions as collecting the food/ingredients and assigning levels according to how much local food a user consumed.
 
 
-## Process
+
+### Process
 
  ![design process for master's thesis](/images/masterthesis_sketches.png)
 
