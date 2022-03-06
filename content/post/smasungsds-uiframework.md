@@ -1,13 +1,12 @@
 ---
 title: Samsung SDS UI Framework
 date: 2014-04-30
-hero: /images/samsungsds_uiframework_main.png
+hero: /images/uiframework_main.png
 excerpt: UI Framework for internal developers. I designed and developed UI Components with samples and codes.
 role: UI designer & developer
 pjtdate: 2012-2014
 timeToRead: 8
-authors:
-  - Jeongeun Lee
+author: jeongeun
 
 ---
 
@@ -15,14 +14,16 @@ authors:
 I was involoved in design and front-end development of UI framework for internal developers in Samsung SDS.
 
 
- ![ui framework sketches](/images/uiframework_sketches.png)
-
 
 
 ### UI component design 
-  - Designed several basic sets of UI components such as button, progressbar, accordion
-  - Added interactions for the planned UI components (e.g. button-click/hover/with icons, progressbar-direction/different shape/image movement)
+  - Designed several basic sets of UI components such as button, progressbar, accordion, etc.
+  - Analze different use cases, for example, with dynamic icon, with different angle (direction) for progressbar, error cases, etc.
+  - Defined action interactions for the UI components, for example, buttons with hover, focus, disabled, pressed, clicked states)
 ### Front-end development
-- Extended/Customized jQeury UI library for the planned UI components. (paginator) 
-- Provide Codes of Javascript with jQuery, Html, and CSS as a template for a quick start
-uiframework_sketches.png
+- Provided refined codes and guide documents of Html, CSS, and javascript as a template for a quick start
+- Extended/Customized jQeury UI library for the planned UI components, especially for paginator UI
+
+
+
+ ![ui framework sketches](/images/uiframework_sketches.png)

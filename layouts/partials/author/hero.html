@@ -7,6 +7,8 @@
         {{ end }}
         <h1 class="author-heading">{{ .Title }}</h1>
         <p class="author-subheading">{{ .Params.bio }}</p>
+        <br/>
+        <p class="author-subheading">{{ .Params.biomore }}</p>
         <div class="author-social">
             {{ partial "author/social_links.html" . }}
         </div>

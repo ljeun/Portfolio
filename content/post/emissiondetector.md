@@ -6,8 +6,7 @@ excerpt: Industrial project work with an emission company, Aeromon. I was involv
 timeToRead: 8
 role: UX designer/researcher
 pjtdate: 2018
-authors:
-  - Jeongeun Lee
+author: jeongeun
 
 ---
 
