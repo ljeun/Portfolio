@@ -7,7 +7,7 @@ role: UX designer
 pjtdate: 2019
 timeToRead: 8
 authors:
-  - Jeongeun
+  - jeongeun
 
 ---
 

@@ -7,7 +7,8 @@ excerpt: End to end solution for running different kinds of artificial intellige
 role: Product designer
 pjtdate: 2020-Present
 timeToRead: 4
-author: jeongeun
+authors:
+  - jeongeun
 ---
 
 Since I worked on the solutions for internal use with security policy, there is a limitation to show works online, but a summary of my works can be described as below while I was working on [TELUS International](https://www.telusinternational.com/solutions/ai-data-solutions?INTCMP=ti_solutions). It started from understanding the core problems and built a product workflow by user groups and concept based on those. The initial prototyping and user tests has gone through, proved the concept, and identified some improvements. Then the prototpying has been iterated piece by piece.

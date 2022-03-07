@@ -6,7 +6,8 @@ excerpt: UI Framework for internal developers. I designed and developed UI Compo
 role: UI designer & developer
 pjtdate: 2012-2014
 timeToRead: 8
-author: jeongeun
+authors:
+  - jeongeun
 
 ---
 

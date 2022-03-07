@@ -7,10 +7,14 @@ biomore:
 avatar: /images/jeongeun-lee.jpg
 featured: true
 social:
-  - title: linkedin
-    url: https://fi.linkedin.com/in/leejeongeun
+  # - title: linkedin
+  #   url: https://fi.linkedin.com/in/leejeongeun
+  # - title: email
+  #    url: mailto:vcp.jeongeun@gmail.com
   # - title: github
-  #   url: https://github.com
+  #   url: mailto:vcp.jeongeun@gmail.com
+  # - title: github
+  #   url: mailto:vcp.jeongeun@gmail.com
   # - title: github
   #   url: https://github.com
   # - title: github

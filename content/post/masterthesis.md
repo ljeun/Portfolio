@@ -6,8 +6,8 @@ excerpt: Master's Thesis - Designing a Gamified Augmented Reality Application fo
 role: Researcher, UX designer
 pjtdate: 2018-2019
 timeToRead: 3
-authors:
-  - Jeongeun
+aauthors:
+  - jeongeun
   
 ---
 

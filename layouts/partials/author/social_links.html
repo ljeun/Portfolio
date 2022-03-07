@@ -1,9 +1,14 @@
 <div class="social-icon-outer authors-sio">
+     <span class="bio-text" style="display: inline-block; width: 70px;">Email:</span> 
+        <a class="bio-text" href="mailto:vcp.jeongeun@gmail.com">vcp.jeongeun@gmail.com</a>
+        <br/>
+        <span class="bio-text" style="display: inline-block; width: 70px;">LinkedIn:</span> 
+        <a class="bio-text" href="https://fi.linkedin.com/in/leejeongeun">https://fi.linkedin.com/in/leejeongeun</a>
     <div class="social-icon-container">
-        {{ range $component := .Params.social }}
+       <!--  {{ range $component := .Params.social }}
             {{ $path := print "icons/social/" .title }}
             <a href="{{ .url }}">{{ partial $path $ }}</a>
             <span class="hidden">{{ .url }}</span>
-        {{ end }}
+        {{ end }} -->
     </div>
 </div>

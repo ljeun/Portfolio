@@ -1,11 +1,18 @@
-<div class="social-icon-outer">
+<div class="social-icon-outer" style="min-width: 320px; margin: 0 0 0 24px;">
     <div class="social-icon-container">
-        {{ range $index, $component := .Site.Social }}
+        <!-- {{ range $index, $component := .Site.Social }}
             {{ with $component }}
                 {{ $path := print "icons/social/" $index }}
                 <a href="{{ . }}">{{ partial $path $ }}</a>
                 <span class="hidden">{{ $component }}</span>
             {{ end }}
-        {{ end }}
+        {{ end }} -->
     </div>
+        <div style="display:block;">
+            <span class="bio-text" style="display: inline-block; width: 70px; padding: 0px;">Email:</span> 
+            <a class="bio-text" href="mailto:vcp.jeongeun@gmail.com">vcp.jeongeun@gmail.com</a>
+            <br/>
+            <span class="bio-text" style="display: inline-block; width: 70px; padding: 0px;">LinkedIn:</span> 
+            <a class="bio-text" href="https://fi.linkedin.com/in/leejeongeun">https://fi.linkedin.com/in/leejeongeun</a>
+        </div>
 </div>

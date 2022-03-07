@@ -1,5 +1,6 @@
 
-Customized template module with the theme: a [Hugo Module](https://gohugo.io/hugo-modules/)
+Used a [Hugo Module](https://gohugo.io/hugo-modules/), utilizing/customizing [Theme](https://themes.gohugo.io/themes/hugo-theme-novela/)
+
 
 
 ## Prerequisites

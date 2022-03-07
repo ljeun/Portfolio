@@ -7,7 +7,8 @@ role: UX designer/researcher
 pjtdate: 2014-2017
 # secret: true
 timeToRead: 8
-author: jeongeun
+authors:
+  - jeongeun
 
 ---
 I have designed end-to-end user experience for enterprise solutions, for example, Nexshop for retail marketing and analysis (Now it's with the product [Brightics](https://www.samsungsds.com/eu/iot-platform/brightics-iot.html)). Due to the security policy, it is hard to show any specific visuals as a result, but I did design works from user research, concept design to screen designs for web or mobile with detailed specifications. I have used different kinds of tools such as Powerpoint, Balsamiq, Adobe Illustrator, Sketch, and Invision.
