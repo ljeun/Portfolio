@@ -1,5 +1,5 @@
 ---
-title: Samsung SDS UI Framework
+title: UI Framework in Samsung SDS
 date: 2014-04-30
 hero: /images/uiframework_main.png
 excerpt: UI Framework for internal developers. I designed and developed UI Components with samples and codes.

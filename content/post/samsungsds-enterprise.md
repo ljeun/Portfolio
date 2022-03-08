@@ -1,5 +1,5 @@
 ---
-title: Samsung SDS Enterprise Solutions
+title: Enterprise Solutions in Samsung SDS
 date: 2017-05-01
 hero: "/images/samsungsds_main.png"
 excerpt: UX design for Enterprise IT solutions in the retail and mobility industry.I have designed end-to-end user experience from field research to building information architecture and designing specific screens
