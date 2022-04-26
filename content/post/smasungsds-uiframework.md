@@ -19,11 +19,11 @@ I was involoved in design and front-end development of UI framework for internal
 
 ### UI component design 
   - Designed several basic sets of UI components such as button, progressbar, accordion, etc.
-  - Analze different use cases, for example, with dynamic icon, with different angle (direction) for progressbar, error cases, etc.
-  - Defined action interactions for the UI components, for example, buttons with hover, focus, disabled, pressed, clicked states)
+  - Analyzed different use cases, for example, with dynamic icon, with different angle (direction) for progressbar, error cases, etc.
+  - Defined interactions/behaviors for the UI components, for example, buttons with hover, focus, disabled, pressed, clicked states)
 ### Front-end development
-- Provided refined codes and guide documents of Html, CSS, and javascript as a template for a quick start
-- Extended/Customized jQeury UI library for the planned UI components, especially for paginator UI
+- Provided standard codes and documents of Html, CSS, and javascript as a template for a quick start
+- Extended/Customized jQeury UI library for the designed UI components, especially for paginator UI
 
 
 
