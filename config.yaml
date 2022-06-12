@@ -3,5 +3,6 @@ languageCode: "en-us"
 title: "Jeongeun Lee"
 metaDataFormat: yaml
 taxonomies:
-  author: authors
+author: authors
+enableRobotsTXT: true
 
