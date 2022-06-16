@@ -27,8 +27,11 @@ Four main user groups are defined, and each user journey map has drawn by the pr
 The initial prototype has been created and tested with end-users to identify friction points and find out possible usability problems already. The method was unmoderated remote user testing due to the covid situation, and the participants were recruited in a variety of locations and ages. The testing was conducted in four parts; background questionnaire, prototype testing/questionnaire, A/B test questionnaire, and post questionnaire. The answers are sorted out with 477 notes and analyzed with an affinity diagram. The result indicated that the concept is valid and gives value to the users. In addition, our team was able to discover more use cases in detail for a certain flow, and some improvements in the UI/visual elements in genral.
 
 ### Iterative prototyping with details
-From the sign up/in to all the main pages, it always starts from the high-level workflow with diagrams and low fidelity prototypes at first. Once those are discussed within the product team and validated with users, the high fidelity prototypes are created, iterated, iterated, and iterated as gone through user testing, team review, and stakeholders' feedback. Our team uses Figma for those designs and interactive clickthrough prototypes.
+From the sign up/in to the main pages, it always starts from the high-level workflow with diagrams and low fidelity prototypes at first. Once those are discussed within team and validated with users, the high fidelity prototypes are created, iterated, iterated, and iterated as gone through user testing, team review, and stakeholders' feedback. Our team uses Figma for those designs and interactive clickthrough prototypes.
 
+One of the recent work is shaping a workflow and design for setting/assigning user roles to unify platforms based on role based access control model.
+
+ ![process](/images/telusinternational_user_roles.png)
 
 <!--  ![iteration](/images/telusinternational_aidata_signup.png)
 
