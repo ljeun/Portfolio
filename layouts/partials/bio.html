@@ -4,13 +4,13 @@
             {{ with .Page }}
                 {{ if .Params.featured }}
                     <a href="{{ .RelPermalink }}" class="bio-link">
-                        <!-- {{ with .Params.avatar }}
-                           <div class="bio-avatar">
+                        {{ with .Params.avatar }}
+                           <!-- <div class="bio-avatar">
                                 <div class="bio-avatar-inner">
                                     <img class="author-avatar" src="{{ . }}" />
                                 </div>
-                            </div>
-                        {{ end }} -->
+                            </div> -->
+                        {{ end }}
                         {{ with .Params.bio }}
                             <div class="bio-text">{{ . }}</div>
                         {{ end }}                        
