@@ -31,7 +31,7 @@ From the sign up/in to the main pages, it always starts from the high-level work
 
 One of the recent work is shaping a workflow and design for setting/assigning user roles to unify platforms based on role based access control model.
 
- ![process](/images/telusinternational_user_roles.png)
+ ![process](/images/ti_user_roles.png)
 
 <!--  ![iteration](/images/telusinternational_aidata_signup.png)
 
